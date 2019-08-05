@@ -159,15 +159,15 @@ div.footer li {
 }
 @media (max-width: 350px) {
 	.profile img{
-	
+
 
 	}
 }
 @media (max-width:520px){
-		.logo img{
-			width: 40%;
-			height: 40%;
-		}
+	.logo img{
+		width: 40%;
+		height: 40%;
+	}
 }
 
 @media (max-width:400px){
